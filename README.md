@@ -4,4 +4,4 @@
 
 2. To train GAN, use GAN_metric_evaluation_V2.ipynb
 
-3. To get metrics result based  on KDE and True PDF, please run metric.ipynb
+3. To get metrics result based  on KDE and True PDF, please run metric2.ipynb
